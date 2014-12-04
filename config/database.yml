@@ -1,0 +1,8 @@
+# Configure the database used when in the development environment
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: contact_manager_development
+  pool: 5
+  username:
+  password:
